@@ -1,0 +1,12 @@
+.container{
+    border: 2px solid black;
+    text-align: center;
+}
+#title,h3{
+    background: #5a5757;
+    color: #fff;
+    width: 9rem;
+    text-align: center;
+    position: relative;
+    right: -14em;
+}
